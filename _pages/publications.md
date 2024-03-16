@@ -9,147 +9,92 @@ header:
 [[Google Scholar](https://scholar.google.com.br/citations?user=QEudMzIAAAAJ&hl=pt-BR), [ORCID](https://orcid.org/0000-0002-8979-645X), [ResearchGate](https://www.researchgate.net/profile/Rodrigo-Domingues-2), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=55507606000), [Loop](https://loop.frontiersin.org/people/476911/overview)]
 
 
-### Submitted
+### Published   
+- [The importance of considering genetic diversity in shark and ray conservation policies](https://link.springer.com/article/10.1007/s10592-017-1038-3)  
+  **Rodrigo Rodrigues Domingues**, Alexandre Wagner Silva Hilsdorf, Otto Bismarck Fazzano Gadig 
 
-0. [The Rio Grande Rise Circulation: Dynamics of an Internal Tide Conversion Hotspot][s8]  
-   P. W. M. Souza-Neto, I. C. A. da Silveira, **C. B. Rocha**, C. Z. Lazaneo, P. H. R. Calil, *Progress in Oceanography (submitted)* 
+- [Effects of the Pleistocene on the mitochondrial population genetic structure and demographic history of the silky shark (Carcharhinus falciformis) in the western Atlantic Ocean](https://link.springer.com/article/10.1007/s11160-017-9504-z)  
+  **Rodrigo R Domingues**, Alexandre WS Hilsdorf, Mahmood M Shivji, Fabio VH Hazin, Otto BF Gadig 
 
-0. [A Deep Learning Approach to Estimate Ocean Salinity with Data Sampled with Expendable Bathythermographs][s7]  
-   E. Campos, **C. B. Rocha**, M. Goes, S. Dong, H. Lopez, G. Goni, *Applied Ocean Research (submitted)* 
+- [DNA barcode reveals the bycatch of endangered batoids species in the southwest Atlantic: implications for sustainable fisheries management and conservation efforts](https://www.mdpi.com/2073-4425/10/4/304)
+  Bruno Lopes da Silva Ferrette, **Rodrigo Rodrigues Domingues**, Matheus Marcos Rotundo, Marina Provetti Miranda, Ingrid Vasconcellos Bunholi, Juliana Beltramin De Biasi, Claudio Oliveira, Fausto Foresti, Fernando Fernandes Mendonça
 
-0. [Ocean fine-scale fronts driven by a freshwater Amazon plume during wintertime][s6]
-  S. Coadou-Chaventon, S. Speich, D. Zhang, **C.B. Rocha**, S. Swart, *Journal of Geophysical Research Oceans (submitted)*
+- [DNA-based species identification of shark finning seizures in Southwest Atlantic: implications for wildlife trade surveillance and law enforcement](https://link.springer.com/article/10.1007/s10531-019-01862-0?wt_mc=Internal.Event.1.SEM.ArticleAuthorOnlineFirst&utm_source=ArticleAuthorContributingOnlineFirst&utm_medium=email&utm_content=AA_en_06082018&ArticleAuthorContributingOnlineFirst_20191013)
+  Bruno Lopes da Silva Ferrette, **Rodrigo Rodrigues Domingues**, Luis Henrique Fregadolli Ussami, Letícia Moraes, Carolina de Oliveira Magalhães, Alberto Ferreira de Amorim, Alexandre Wagner Silva Hilsdorf, Claudio Oliveira, Fausto Foresti, Fernando Fernandes Mendonça  
 
-0. [Submarine Geomorphology and Processes: from coast to deep abyssal plains][s5]  
-   F. J. Lobo, J. L. dos Passos, R. Durán, A. López-Quirós, J. Guillén, F. Pereira, **C. B. Rocha**, M. M. de Mahiques, *Geomorphology (submitted)*
+- [Genetic connectivity and phylogeography of the night shark (Carcharhinus signatus) in the western Atlantic Ocean: Implications for conservation management](https://onlinelibrary.wiley.com/doi/abs/10.1002/aqc.2961) 
+  **Rodrigo R Domingues**, Christine C Bruels, Otto BF Gadig, Demian D Chapman, Alexandre WS Hilsdorf, Mahmood S Shivji  
+ 
+- [Genetic identification of Carcharhinus sharks from the southwest Atlantic Ocean (Chondrichthyes: Carcharhiniformes)](https://onlinelibrary.wiley.com/doi/abs/10.1111/jai.12154)
+  **RR d Domingues**, AF De Amorim, AWS Hilsdorf  
+  
 
-0. [Intriguing Warming of Abyssal Waters in the Argentine Basin from January 2019 to January 2023][s4]  
-   E. Campos, **C. B. Rocha**, A. Piola, M. van Caspel, O. Sato, P. Polito, M. P. Chidichimo, R. Perez, S. Dong, T. Bilo, *Scientific Reports (submitted)* 
+- [Restricted connectivity and population genetic fragility in a globally endangered Hammerhead Shark](https://link.springer.com/article/10.1007/s11160-020-09607-x)
+  Danillo Pinhal, **Rodrigo R Domingues**, Christine C Bruels, Bruno LS Ferrette, Otto BF Gadig, Mahmood S Shivji, Cesar Martins  
+  
+- [Length–length and length–weight relationships of Carcharhinus falciformis and C. signatus (Carcharhinidae: Carcharhinus) caught by commercial fisheries in the Southwest Atlantic Ocean](https://www.sciencedirect.com/science/article/pii/S2352485516300408)
+  **Rodrigo R Domingues**, Fabio P Caltabellotta, Alberto F Amorim 
 
-0. [On the mechanisms driving latent heat fluxvariations in the north-west Tropical Atlantic][s3]  
-   P. Fernández, S. Speich, D. Lange-Vega, J. Karstensen, D. Zhang, **C. B. Rocha**, *Journal of Geophysical Research Oceans (submitted)* 
+- [Use of mucus as a non‐invasive sampling method for DNA barcoding of stingrays and skates (batoid elasmobranchs)](https://onlinelibrary.wiley.com/doi/abs/10.1111/jfb.13919)
+  **Rodrigo R Domingues**, Domingos Garrone‐Neto, Alexandre WS Hilsdorf, Otto BF Gadig
 
-0. [Temporal trends and causes of deoxygenation in the northwest Atlantic shelf ][s2]  
-   H. Nguyen, S. Siedlecki, **C. B. Rocha**, Z. Chen, E. Curchitser, *Journal of Geophysical Research Oceans (submitted)* 
+- [Broad geographic distribution of roundscale spearfish (Tetrapturus georgii) (Teleostei, Istiophoridae) in the Atlantic revealed by DNA analysis: Implications for white marlin and roundscale spearfish management](https://www.sciencedirect.com/science/article/pii/S0165783612003050)
+  Andrea M Bernard, Mahmood S Shivji, **Rodrigo Rodrigues Domingues**, Fabio Hissa Vieira Hazin, Alberto Ferreira de Amorim, Andres Domingo, Freddy Arocha, Eric D Prince, John P Hoolihan, Alexandre Wagner Silva Hilsdorf
 
-0. [Nusselt Number Scaling in Horizontal Convection: Boundary Conditions and Dimensionality][s1]  
-   N. Constantinou, **C. B. Rocha**, S. G. Llewellyn Smith, & W. R. Young, *Journal of Fluid Mechanics (submitted)* 
-{: reversed="reversed"}
+- [Genetic diversity of an imperiled Neotropical catfish and recommendations for its restoration](https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2017.00196/full)
+  Fernando S Fonseca, **Rodrigo R Domingues**, Eric M Hallerman, Alexandre WS Hilsdorf
 
+- [Human introduction or natural dispersion? Atlantic Ocean occurrence of the Indo‐Pacific whitetip reef shark Triaenodon obesus](https://onlinelibrary.wiley.com/doi/abs/10.1111/jfb.13528)
+  H Bornatowski, R Loose, CLS Sampaio, OBF Gadig, A Carvalho‐Filho, **RR Domingues**
 
-### Peer-reviewed publications
+- [From molecule to conservation: DNA-based methods to overcome frontiers in the shark and ray fin trade](https://link.springer.com/article/10.1007/s12686-021-01194-8)
+ **Rodrigo Rodrigues Domingues**, Ingrid Vasconcellos Bunholi, Danillo Pinhal, Agostinho Antunes, Fernando Fernandes Mendonça
 
-0. [Lateral shift from turbidite- to contourite-dominated continental slope, a case study from southeast Brazil slope][21]
-  U. Schattner, **C.B. Rocha**, R.B. Ramos, N. Shtober-Zisu, F.J. Lobo, & M.M. de Mahiques, **Geomorphology** (in press)
+- [Scientific Note First reported occurrence of pregnant and neonato, Rhinoptera brasiliensis (Chondrichthyes, Rhinopteridae) caught off Guaruja city, São Paulo state, Brazil](https://panamjas.org/pdf_artigos/PANAMJAS_4(4)_605-608.pdf)
+  **RODRIGO R DOMINGUES**, MANOEL MB GONZALEZ, ALBERTO F AMORIM
 
-0. [The Brazil Current Quasi-Stationary Unstable Meanders at 22S-23S][20]  
-   I. C. A. da Silveira, F. Pereira, G. R. Flierl, I. T. Simões-Sousa, A. Palóczy, M. Borges-Silva, & **C. B. Rocha**, *Progress in Oceanography (2023)* 
+- [Phylogeography and population genetics of the cryptic bonnethead shark Sphyrna aff. tiburo in Brazil and the Caribbean inferred from mtDNA markers](https://onlinelibrary.wiley.com/doi/abs/10.1111/jfb.14896)
+  Cindy Gonzalez, Bautisse Postaire, **Rodrigo R Domingues**, Kevin A Feldheim, Susana Caballero, Demian Chapman
 
-0. [Compact Mesoscale Eddies in the South Brazil Bight][19]  
-   **C. B. Rocha** & I. T. Simões-Sousa,  *Remote Sensing (2022)* 
+- [Comparative eye and liver differentially expressed genes reveal monochromatic vision and cancer resistance in the shortfin mako shark (Isurus oxyrinchus)](https://www.sciencedirect.com/science/article/pii/S0888754320301075)
+  **Rodrigo R Domingues**, Vito Antonio Mastrochirico-Filho, Natalia J Mendes, Diogo T Hashimoto, Rui Coelho, Vanessa Paes da Cruz, Agostinho Antunes, Fausto Foresti, Fernando F Mendonça
 
-0. [Transition from Balanced to Unbalanced Motion in the Eastern Tropical Pacific][18]  
-  S. M. Soares, S. T. Gille, T. K. Chereskin, E. Firing, J. Hummon, & **C. B. Rocha**, *Journal of Physical Oceanography (2022)* 
+- [Global phylogeography of sailfish: deep evolutionary lineages with implications for fisheries management](https://link.springer.com/article/10.1007/s10750-021-04587-w)
+  Bruno Lopes da Silva Ferrette, Bruno Mourato, Fábio Hissa Vieira Hazin, Freddy Arocha, Samuel Mackey Williams, Carlos Egberto Rodrigues Junior, Fábio Porto-Foresti, Alberto Ferreira de Amorim, Matheus Marcos Rotundo, Rui Coelho, John P Hoolihan, Fambaye Ngom Sow, N’guessan Constance Diaha, Evgeny V Romanov, **Rodrigo Rodrigues Domingues**, Claudio Oliveira, Fausto Foresti, Fernando Fernandes Mendonca
 
-0. [ Exploiting Self-Organized Criticality in Strongly Stratified Turbulence][17]  
-   G. P. Chini, G. Michel, K. Julien, **C. B. Rocha**, & C. P. Caulfield, *Journal of Fluid Mechanics (2022)* 
+- [A DNA tool for the identification of heavily exploited Atlantic billfishes](https://link.springer.com/article/10.1007/s12686-015-0489-4)
+  **Rodrigo R Domingues**, Gabriel Okuda, Andrea M Bernard, Alberto F Amorim, Juliana De Biasi, Alexandre WS Hilsdorf
 
-0. [Geomorphological Imprint of Opposing Ocean Bottom Currents, a Case Study from the Southeastern Brazilian Atlantic Margin][16]  
-    M. M. de Mahiques, F. J. Lobo, U. Schattner, A. López-Quirós, **C. B. Rocha**, R. J. S. Dias, I. Montoya-Montes, & A. C. A. Vieira, *Marine Geology (2022)* 
+- [Five new records of Luvarus imperialis (Acanthuroidei: Luvaridae) in the south‐west Atlantic Ocean](https://onlinelibrary.wiley.com/doi/abs/10.1111/jfb.12629)
+ **RR Domingues**, S Montealegre‐Quijano, JMR Soto, AF Amorim
 
-0. [EUREC4A][15]  
-    B. B. Stevens et al., *Earth System Science Data (2021)* 
+- [Assessing illegal fishing and trade of Atlantic billfish and swordfish by DNA-based identification](https://link.springer.com/article/10.1007/s12686-021-01190-y)
+  Suhaila Karim Khalil Jaser,** Rodrigo Rodrigues Domingues**, Alexandre Wagner Silva Hilsdorf
 
-0. [Can the Intermediate Western Boundary Current Recirculation Trigger the Vitória Eddy Formation?][14]  
-    D. C. Napolitano, **C. B. Rocha**, I. C. A. da Silveira, I. T. Simões-Sousa, & G. R. Flierl,   *Ocean Dynamics (2021)* 
+- [CORYPHAENA HIPPURUS AND ACANTHOCYBIUM SOLANDRI INCIDENTAL CATCH OFF SOUTH AND SOUTHEAST BRAZIL (1971-2009) BY SAO PAULO TUNA LONGLINERS}(https://www.researchgate.net/profile/Rodrigo-Domingues-2/publication/266969740_Coryphaena_hippurus_and_Acanthocybium_solandri_incidental_catch_off_South_and_Southeast_Brazil_1971-2009_by_Sao_Paulo_tuna_longliners/links/544018d00cf2be1758cffa4e/Coryphaena-hippurus-and-Acanthocybium-solandri-incidental-catch-off-South-and-Southeast-Brazil-1971-2009-by-Sao-Paulo-tuna-longliners.pdf)
+  A. F. Amorim, C. A. Arfelli, **R. R. Domingues**, N. Piva-Silva, C. V. Minte-Vera
 
-0. [Control of Oceanic Circulation on Sediment Distribution in the Southwestern Atlantic Margin (23 to 55S)][13]  
-    M. M. de Mahiques, R. Violante, P. Franco-Fragas, L. Burone, **C. B. Rocha**, L. Ortega, R. F. dos Santos,  B. S. M. Kim, R. C. F. Lopes, & M. C Bícego, *Ocean Science (2021)* 
+- [Decoding the transcriptome of sharks, rays, and chimaeras: Insights into their physiology, morphology, evolution, and biomedical applications](https://www.mdpi.com/2410-3888/8/5/271)
+  Manuel J Seixas,** Rodrigo R Domingues**, Agostinho Antunes
 
-0. [The Nusselt Numbers of Horizontal Convection][12]  
-    **C. B. Rocha**, N. Constantinou, S. G. Llewellyn-Smith, & W. R. Young, *Journal of Fluid Mechanics (2020)* 
+- [Fifteen years of extensive and inadvertent elasmobranch trade in Brazil detected by DNA tools](https://ecoevorxiv.org/repository/view/6117/)
+  Marcela Alvarenga, Ingrid Vasconcellos Bunholi, Gustavo Reis de Brito, Marcos Vinícius Bohrer Monteiro Siqueira, **Rodrigo Rodrigues Domingues**, Patricia Charvet, Fausto Foresti, Antonio Mateo Solé-Cava, Vanessa Paes da Cruz
 
-0. [Improved Bounds on Horizontal Convection][11]  
-    **C. B. Rocha**, T. Bossy, S. G. Llewellyn-Smith, & W. R. Young,  *Journal of Fluid Mechanics (2020)* 
+- [Amazonian ichthyoplankton assessment via DNA metabarcoding: A baseline for detecting spawning sites of migratory fishes](https://www.sciencedirect.com/science/article/pii/S0006320723002811)
+  Lara E Silva, **Rodrigo R Domingues**, Naiara G Sales, Priscila MS Villela, Camila Barbosa Silva, Alexandre WS Hilsdorf
 
-0. [Characterizing the Transition from Balanced to Unbalanced Motions in the Southern California Current][10]  
-    T. Chereskin, **C. B. Rocha**, S. T. Gille, D. Menemenlis, & M. Passaro,   *Journal of Geophysical Research Oceans (2019)* 
+- [Multilocus phylogeography of the endemic and endangered angular angelshark (Squatina guggenheim) in the Southwest Atlantic Ocean](https://link.springer.com/article/10.1007/s10750-022-04855-3)
+  Ingrid Vasconcellos Bunholi, Bruno Lopes da Silva Ferrette, **Rodrigo Rodrigues Domingues**, Matheus Marcos Rotundo, Juan Martín Cuevas, Mirta García, Sebastián Gómez, Renato Hajenius Aché de Freitas, Claudio Oliveira, Fausto Foresti, Fernando Fernandes Mendonça
 
-0. [Blocking Statistics in a Varying Climate: Lessons from a "Traffic Jam" Model with Pseudostochastic Forcing][9]  
-    A. Paradise, **C. B. Rocha**, P. Barbanda, & N. Nakamura,   *Journal of Atmospheric Sciences (2019)* 
+- [Global population genetic structure of the sequential hermaphrodite, dusky grouper (Epinephelus marginatus)](https://onlinelibrary.wiley.com/doi/abs/10.1002/aqc.3608)
+  Jussara Oliveira Vaini, **Rodrigo Rodrigues Domingues**, Bruno Lopes da Silva Ferrette, Eric M Hallerman, Kenneth Gabriel Mota, Joao Pedro Barreiros, Alexandre Wagner Silva Hilsdorf
 
-0. [On the Steadiness and Instability of the Intermediate Western Boundary Current between 24S and 18S][8]  
-    D. C. Napolitano, I. C. A. da Silveira, **C. B. Rocha**, G. R. Flierl, P. H. R. Calil, & R. P. Martins,   *Journal of Physical Oceanography (2019)* 
+- [Development and characterization of thirteen microsatellite markers for the longbill spearfish (Tetrapturus pfluegeri)](https://link.springer.com/article/10.1007/s12686-013-0038-y)
+  Andrea M Bernard, AWS Hilsdorf, AF Amorim, **RR Domingues**, Mahmood S Shivji
 
-0. [Stimulated Generation: Extraction of Energy from Balanced Flow by Near-Inertial Waves][7]  
-    **C. B. Rocha**, G. Wagner, & W. R. Young, *Journal of Fluid Mechanics (2018)* 
+- [Gene-associated markers as a genomic and transcriptomic resource for a highly migratory and apex predator shark (Isurus oxyrinchus)](https://link.springer.com/article/10.1007/s00227-022-04094-z)
+  **Rodrigo R Domingues**, Vito Antonio Mastrochirico-Filho, Natalia J Mendes, Diogo T Hashimoto, Rui Coelho, Agostinho Antunes, Fausto Foresti, Fernando F Mendonça
 
-0. [Small-Scale Open Ocean Currents Have Large Effects on Wind Wave Heights][6]  
-    F. Ardhuin, S. T. Gille, D. Menemenlis, **C. B. Rocha**, N. Rascle, B. Chapron, J. Gula, & J. Mokemaker, *Journal of Geophysical Research Oceans (2017)* 
-
-0. [Seasonality of Submesoscale Dynamics in the Kuroshio Extension][5]  
-    **C. B. Rocha**,S. T. Gille, T. K. Chereskin,  & D. Menemenlis, *Geophysical Research Letters (2016)* 
-
-0. [On Galerkin Approximations of the Surface Active Quasigeostrophic Equations][4]  
-    **C. B. Rocha**, W. R. Young, & I. Grooms, *Journal of Physical Oceanography (2016)* 
-
-0. [Mesoscale to Submesoscale Wavenumber Spectra in Drake Passage][3]  
-    **C. B. Rocha**, T. K. Chereskin, S. T. Gille, & D. Menemenlis,  *Journal of Physical Oceanography (2016)* 
-
-0. [Vertical Structure, Energetics, and Dynamics of the Brazil Current System ][2]  
-    **C. B. Rocha**, I. C. A. da Silveira, B. M. Castro, & J. A. M. Lima, *Journal of Geophysical Research Oceans (2014)* 
-
-0. [Traditional Quasi-Geostrophic Modes and Surface Quasi-Geostrophic Solutions in the Southwestern Atlantic][1]  
-    **C. B. Rocha**, A. Tandon, I. C. A. da Silveira,  & J. A. M. Lima,  *Journal of Geophysical Research Oceans (2013)* 
-{: reversed="reversed"}
-
-### Gray literature
-
-0. [S-MODE: The Sub-Mesoscale Ocean Dynamics Experiment](https://ieeexplore.ieee.org/document/9323112) 
-J. T. Farrar et al., *Proceedings of the IEEE International Geoscience and Remote Sensing Symposium (2020)* 
-
-0. [Internal Gravity Waves and Meso/Sub-mesoscale Currents in the Ocean: Anticipating High-Resolution Observations from the Surface Water & Ocean Topography (SWOT) Swath Altimeter Mission](https://journals.ametsoc.org/view/journals/bams/99/9/bams-d-18-0133.1.xml) 
-E. Zaron & **C. B. Rocha**, *Bulleting of American Meteorological Society (2020)* 
-
-0. [Open Code Policy for NASA Space Science: A Perspective from NASA-Supported Ocean Modeling and Ocean Data Analysis](https://nap.nationalacademies.org/resource/25217/whitepapers/pdf/41_GilleSarahT.pdf)
-S. T. Gille, R. Abernathey, T. Chereskin, B. Cornuelle, P. Heimbach, M. Mazloff, **C. B. Rocha**, S. Soares, M. Sonnewald, B. Villas Boas, J. Wang, *Open Source Software Policy Options for NASA Earth and Space Sciences, The National Academies Press (2018)* 
-
-
-0. [The Turbulent and Wavy Upper Ocean: Transition from Geostrophic Flows to Internal Waves and Stimulated Generation of Near-Inertial Waves][g1]
- **C. B. Rocha**, *Ph.D. Dissertation (2018)* 
-{: reversed="reversed"}
-
-[mail]: mailto:cesar.rocha@usp.br
-[1]: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/jgrc.20214
-[2]: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2013JC009143
-[3]: https://journals.ametsoc.org/view/journals/phoc/46/2/jpo-d-15-0087.1.xml
-[4]: https://journals.ametsoc.org/view/journals/phoc/46/1/jpo-d-15-0073.1.xml
-[5]: https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2016GL071349
-[6]: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016JC012413
-[7]: https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/stimulated-generation-extraction-of-energy-from-balanced-flow-by-nearinertial-waves/900227E2C12AA98ECEBBE64F4FF21C43
-[8]: https://journals.ametsoc.org/view/journals/phoc/49/12/jpo-d-19-0011.1.xml
-[9]: /https://www.google.com/search?client=safari&rls=en&q=Blocking+Statistics+in+a+Varying+Climate%3A+Lessons+from+a+%E2%80%9CTraffic+Jam%E2%80%9D+Model+with+Pseudostochastic+Forcing&ie=UTF-8&oe=UTF-8
-[10]: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018JC014583
-[11]: https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/improved-bounds-on-horizontal-convection/23D4D31EC5E900F7BFC2E3F6355FBC36
-[12]: https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/nusselt-numbers-of-horizontal-convection/4A56213E017FE5101A520077A44CF0D8
-[13]: https://os.copernicus.org/articles/17/1213/2021/
-[14]: https://link.springer.com/article/10.1007/s10236-020-01437-6
-[15]: https://essd.copernicus.org/articles/13/4067/2021/
-[16]: /https://www.sciencedirect.com/science/article/pii/S0025322721002978
-[17]: https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/abs/exploiting-selforganized-criticality-in-strongly-stratified-turbulence/8079196D550A0A8D48B28DFEA2E557CF
-[18]: https://www.google.com/search?client=safari&rls=en&q=Transition+from+Balanced+to+Unbalanced+Motion+in+the+Eastern+Tropical+Pacific&ie=UTF-8&oe=UTF-8
-[19]: https://www.mdpi.com/2072-4292/14/22/5781
-[20]: https://www.sciencedirect.com/science/article/pii/S0079661122001847?via%3Dihub
-[21]: https://www.sciencedirect.com/science/article/pii/S0169555X23004294?via%3Dihub
-
-
-[g1]: https://escholarship.org/content/qt4m893890/qt4m893890.pdf
-
-[s1]: https://arxiv.org/pdf/2301.03122.pdf
-[s2]: https://
-[s3]:https://
-[s4]: https://www.researchsquare.com/article/rs-3609456/v1
-[s5]:https://
-[s6]:https://
-[s7]:https://
-[s8]:https://
+- [DNA barcode reveals the bycatch of endangered batoids species in the Southwest Atlantic: implications for sustainable fisheries management and conservation efforts.](https://www.cabidigitallibrary.org/doi/full/10.5555/20203312342)
+  Bruno Lopes da Silva Ferrette,** Rodrigo Rodrigues Domingues**, Matheus Marcos Rotundo, Marina Provetti Miranda, Ingrid Vasconcellos Bunholi, Juliana Beltramin de Biasi, Claudio Oliveira, Fausto Foresti, Fernando Fernandes Mendonça
+  
