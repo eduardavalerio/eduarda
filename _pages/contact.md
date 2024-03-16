@@ -18,7 +18,7 @@ Praça do Oceanográfico 191, São Paulo, SP - BRASIL 05508-120
 
 ### Phone and e-mail 
 Land line: +55 11 3091-6546\\
-E-mail: domingues.pesca@gmail.com
+E-mail: domingues.pesca@gmail.com\\
 [IOUSP](https://www.io.usp.br/index.php/perfil/userprofile/rrdomingues)
 
 
