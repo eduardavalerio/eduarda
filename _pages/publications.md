@@ -71,7 +71,7 @@ header:
 - [Assessing illegal fishing and trade of Atlantic billfish and swordfish by DNA-based identification](https://link.springer.com/article/10.1007/s12686-021-01190-y)
   Suhaila Karim Khalil Jaser,** Rodrigo Rodrigues Domingues**, Alexandre Wagner Silva Hilsdorf
 
-- [CORYPHAENA HIPPURUS AND ACANTHOCYBIUM SOLANDRI INCIDENTAL CATCH OFF SOUTH AND SOUTHEAST BRAZIL (1971-2009) BY SAO PAULO TUNA LONGLINERS}(https://www.researchgate.net/profile/Rodrigo-Domingues-2/publication/266969740_Coryphaena_hippurus_and_Acanthocybium_solandri_incidental_catch_off_South_and_Southeast_Brazil_1971-2009_by_Sao_Paulo_tuna_longliners/links/544018d00cf2be1758cffa4e/Coryphaena-hippurus-and-Acanthocybium-solandri-incidental-catch-off-South-and-Southeast-Brazil-1971-2009-by-Sao-Paulo-tuna-longliners.pdf)
+- [CORYPHAENA HIPPURUS AND ACANTHOCYBIUM SOLANDRI INCIDENTAL CATCH OFF SOUTH AND SOUTHEAST BRAZIL (1971-2009) BY SAO PAULO TUNA LONGLINERS](https://www.researchgate.net/profile/Rodrigo-Domingues-2/publication/266969740_Coryphaena_hippurus_and_Acanthocybium_solandri_incidental_catch_off_South_and_Southeast_Brazil_1971-2009_by_Sao_Paulo_tuna_longliners/links/544018d00cf2be1758cffa4e/Coryphaena-hippurus-and-Acanthocybium-solandri-incidental-catch-off-South-and-Southeast-Brazil-1971-2009-by-Sao-Paulo-tuna-longliners.pdf)
   A. F. Amorim, C. A. Arfelli, **R. R. Domingues**, N. Piva-Silva, C. V. Minte-Vera
 
 - [Decoding the transcriptome of sharks, rays, and chimaeras: Insights into their physiology, morphology, evolution, and biomedical applications](https://www.mdpi.com/2410-3888/8/5/271)
