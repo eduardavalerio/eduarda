@@ -7,7 +7,7 @@ header:
   caption: "[Global temp anomaly from 1850-2018.](https://en.wikipedia.org/wiki/Warming_stripes)"
 ---
 
-[Google Scholar Profile]([https://scholar.google.com/citations?user=e_C8ZrkAAAAJ&hl=en](https://scholar.google.com.br/citations?user=QEudMzIAAAAJ&hl=pt-BR)
+[Google Scholar Profile](https://scholar.google.com.br/citations?user=QEudMzIAAAAJ&hl=pt-BR)
 
 ### Published   
 - [The importance of considering genetic diversity in shark and ray conservation policies](https://link.springer.com/article/10.1007/s10592-017-1038-3)  
