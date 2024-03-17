@@ -3,7 +3,7 @@ layout: single
 title: "Publicações"
 permalink: /publicacoes/
 header:
-  image: /assets/images/vorticity.png
+  image: /assets/images/fundo.jpg
 ---
 
 [[Google Scholar](https://scholar.google.com.br/citations?user=QEudMzIAAAAJ&hl=pt-BR), [ORCID](https://orcid.org/0000-0002-8979-645X), [ResearchGate](https://www.researchgate.net/profile/Rodrigo-Domingues-2), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=55507606000), [Loop](https://loop.frontiersin.org/people/476911/overview)]
