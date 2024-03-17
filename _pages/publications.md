@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Publications"
-permalink: /publications/
+title: "Publicações"
+permalink: /publicacoes/
 header:
   image: /assets/images/vorticity.png
 ---
