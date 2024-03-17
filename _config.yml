@@ -21,7 +21,7 @@ title_separator          : "|"
 subtitle                 : "Instituto Oceanográfico da USP" # site tagline that appears below site title in masthead
 name                     : "LAGEM"
 description              : "Biological oceanography, molecular biology and ecology"
-url                      : "https://cesar-rocha.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://github.com/Laboratorio-de-Genomica-Marinha" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "laboratorio-de-genomica-marinha.github.io/lagem.github.io"  # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -107,18 +107,18 @@ analytics:
 
 # Site Author
 author:
-  name             : "LAGEM"
+  name             : "Laboratório de Genômica Marinha"
   avatar           : "/assets/images/logo_lagem.jpg"
-  bio              : "Laboratório<br /> Instituto Oceanográfico<br /> Universidade de São Paulo"
+  bio              : "LAGEM <br /> Instituto Oceanográfico<br /> Universidade de São Paulo"
   location         : "São Paulo, Brazil"
   email            : "domingues.pesca@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       #url: ""
-    - label: "Lattes"
-      icon: "fas fa-fw fa-link"
-      url: "http://lattes.cnpq.br/0018536511707620"      
+    - label: "Instagram"
+      icon: "fas fa-fw fa-instagram"
+      url: "https://www.instagram.com/lagem.iousp/"      
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Laboratorio-de-Genomica-Marinha"
