@@ -16,14 +16,14 @@ minimal_mistakes_skin    : 'air' #"default" # "air", "aqua", "contrast", "dark",
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Cesar B Rocha"
+title                    : "Laboratório de Genômica Marinha"
 title_separator          : "|"
-subtitle                 : "Ocean and climate physics at USP" # site tagline that appears below site title in masthead
-name                     : "Cesar B Rocha"
-description              : "Physical Oceanography, Geophysical Fluid Dynamics, Climate Variability."
+subtitle                 : "Instituto Oceanográfico da USP" # site tagline that appears below site title in masthead
+name                     : "LAGEM"
+description              : "Biological oceanography, molecular biology and ecology"
 url                      : "https://cesar-rocha.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "cesar-rocha/cesar-rocha.github.id"  # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "laboratorio-de-genomica-marinha.github.io/lagem.github.io"  # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -107,21 +107,21 @@ analytics:
 
 # Site Author
 author:
-  name             : "Cesar B Rocha (he/him)"
-  avatar           : "/assets/images/bio-photo_cesar.jpg"
-  bio              : "Professor Doutor<br /> Instituto Oceanográfico<br /> Universidade de São Paulo"
+  name             : "LAGEM"
+  avatar           : "/assets/images/logo_lagem.jpg"
+  bio              : "Laboratório<br /> Instituto Oceanográfico<br /> Universidade de São Paulo"
   location         : "São Paulo, Brazil"
-  email            : "cesar.rocha@usp.br"
+  email            : "domingues.pesca@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       #url: ""
     - label: "Lattes"
       icon: "fas fa-fw fa-link"
-      url: "https://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4255611T5&tokenCaptchar=03AFY_a8WMZkikCnGfc0Tsjd2VRYLXECe58jV3i39XYuPJOuab81hBjK--r53POI7laenmQ0oykDWyhjE4sMTIfmNi-LTfd0DuKnwpXQ6MiEBPK9k3JlHb5gPrj-jM9RVbpBy2g7Rzh3CchggwMcQ3i3eiYjQVt4-0PU5-qsvT3_SvhAPPCnRD6VTa82-5UmbSczPVJoPDJoNiVZHG1fbD7_RN1z_xOnAGzyJZ-2iuNqaH3PjT7-RtyOpxkFHDlDbKxuf1d1FPIZoIv02hMH4jPHOlacvHGygw7D_hPpxuqnM4Pxn3K77fYDMvnWB4Mdz-uqG3conHAEJjCrIlPrtNMizy-sRuzI9J1qDmGSf0TFAVy8iNdTbJ223KW4SNWJ_nV1yIoaoNMlXxZr9y0TfDyKfMNbx3JX7wCTIpRsg4uxYhh6ChrnBTiBFZyRGQaW-wt5YrXVCauMf6fAgofBABKx6qTtwt38-1XGPYVANxJYgn4OgPzpWt_YJpsgPBocxZUJBewEi9l9N6DF-UfEEwkxbONhCIjQ6d2NLE8gzD-iX28CdhoHHL6bBpJrXn1gfKFJZnvxUyV0EjxLahkcLRk2NTAsvIy_PSow"      
+      url: "http://lattes.cnpq.br/0018536511707620"      
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/cesar-rocha"
+      url: "https://github.com/Laboratorio-de-Genomica-Marinha"
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
     #   url: "https://twitter.com/o_oceanografo"
@@ -146,7 +146,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://www.instagram.com/lagem.iousp/"
 
 
 # Reading Files
