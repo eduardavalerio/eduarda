@@ -9,7 +9,7 @@ header:
 [[Google Scholar](https://scholar.google.com.br/citations?user=QEudMzIAAAAJ&hl=pt-BR), [ORCID](https://orcid.org/0000-0002-8979-645X), [ResearchGate](https://www.researchgate.net/profile/Rodrigo-Domingues-2), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=55507606000), [Loop](https://loop.frontiersin.org/people/476911/overview)]
 
 
-### Published   
+### Artigos
 - [The importance of considering genetic diversity in shark and ray conservation policies](https://link.springer.com/article/10.1007/s10592-017-1038-3)
   **Rodrigo Rodrigues Domingues**, Alexandre Wagner Silva Hilsdorf, Otto Bismarck Fazzano Gadig 
 
