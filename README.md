@@ -1,3 +1,3 @@
-# cesar-rocha.github.io
-$ rake publish
+# lagem.github.io
+The laboratory webpage
 
