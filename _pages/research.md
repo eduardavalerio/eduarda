@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Research"
-permalink: /research/
+title: "Linhas de pesquisa"
+permalink: /pesquisa/
 header:
   image: /assets/images/vorticity.png
 ---
