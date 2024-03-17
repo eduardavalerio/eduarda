@@ -1,15 +1,15 @@
 # main links
 main:
-  - title: "About"
+  - title: "Sobre"
     url: /
-  - title: "Contact"
-    url: /contact/
-  - title: "Group"
-    url: /group/
-  - title: "Publications"
-    url: /publications/
-  - title: "Research"
-    url: /research/
+  - title: "Contato"
+    url: /contato/
+  - title: "Grupo"
+    url: /grupo/
+  - title: "Publicações"
+    url: /publicacoes/
+  - title: "Pesquisa"
+    url: /pesquisa/
 
   
  
