@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Research Group"
-permalink: /group/
+title: "Grupo de pesquisa"
+permalink: /grupo/
 header:
   image: /assets/images/vorticity.png
 ---
