@@ -3,7 +3,7 @@ layout: single
 title: "Grupo de pesquisa"
 permalink: /grupo/
 header:
-  image: /assets/images/fundo.png
+  image: /assets/images/fundo.jpg
 ---
 
 
