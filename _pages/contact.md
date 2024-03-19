@@ -3,7 +3,7 @@ layout: single
 title: "Contato"
 permalink: /contato/
 header:
-  image: /assets/images/vorticity.png
+  image: /assets/images/fundo.jpg
 ---
 
 
