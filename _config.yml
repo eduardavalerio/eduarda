@@ -20,7 +20,7 @@ title                    : "Laboratório de Genômica Marinha"
 title_separator          : "|"
 subtitle                 : "Instituto Oceanográfico da USP" # site tagline that appears below site title in masthead
 name                     : "LAGEM"
-description              : "Biological oceanography, molecular biology and ecology"
+description              : "Laboratório de oceanografia biológica, ecologia molecular e genética"
 url                      : "https://github.com/Laboratorio-de-Genomica-Marinha" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "laboratorio-de-genomica-marinha.github.io/lagem.github.io"  # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
