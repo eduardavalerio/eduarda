@@ -3,31 +3,12 @@ layout: single
 title: "Linhas de pesquisa"
 permalink: /pesquisa/
 header:
-  image: /assets/images/vorticity.png
+  image: /assets/images/fundo.jpg
 ---
 
 
-## Ocean and climate physics
-<div style="width:500px; float: left">
-    {% include video id="807468817" provider="vimeo" %}
-</div>
+## Biodiversidade marinha: uma exploração das ilhas costeiras de São Paulo usando DNA ambiental metabarcoding. Projeto FAPESP #2019/10201-0
 
-- Mesoscale and submesoscale ocean dynamics
-- Internal waves, turbulence and mixing
-- General circulation of the South Atlantic
-
-<br />
-<br />
-
-## Geophysical fluid dynamics
-<div style="width:500px; float: right">
-    {% include video id="813736293" provider="vimeo" %}
-</div>
-
-- Horizontal convection
-- Waves, mean flows and their interactions
-
-
-
+A diversidade biológica é uma propriedade do ecossistema que tem recebido um aumento de atenção nos últimos anos, principalmente devido a perda da biodiversidade ser um dos mais críticos problemas ambientais atualmente. Especificamente, a biodiversidade marinha pode ser objeto de rápidas mudanças devido as influências antropogênicas tal como pesca, perda de habitat, introdução de espécies invasoras e exploração de óleo e gás. Para acumular dados que possam apoiar futuros monitoramento da biodiversidade, principalmente em populações e ecossistemas depauperadas, o desenvolvimento de técnicas que minimizem o risco de injúria ou mesmo morte de animais é imperativo, permitindo a identificação para diferentes táxons em ecossistemas específicos. O levantamento da biodiversidade usando DNA a partir de amostras ambientais é conhecida como DNA ambiental (eDNA - sigla em Inglês). Este método pode detectar traços de material genético liberados no mar através de fezes, gametas, pele e carcaças em decomposição de diferentes organismos. O DNA ambiental pode ser amplificado, sequenciado, e informar a espécie de origem usando técnicas de sequenciamento de segunda geração (NGS) como o metabarcoding, um rápido e eficiente método para levantar a riqueza de espécies de uma comunidade natural, porém ainda não usado no ambiente marinho do Brasil. Portanto, esse pioneiro projeto pretende preencher lacunas no conhecimento da biodiversidade marinha em áreas marinhas protegidas e não protegidas do Estado de São Paulo, incluindo Parque Marinho da Laje de Santos, Arquipélago de Alcatrazes, Ilha da Queimada Grande e Ilha de Búzios. Especificamente, serão coletadas amostras de água dos ecossistemas citados, afim de melhorar o entendimento acerca da atual biodiversidade da comunidade eucariótica marinha e em grupos taxonômico específico como peixes, poríferos e antozoários em nível espécie-específico, testando hipóteses sobre as possíveis causas da mudança da biodiversidade em decorrência das características oceanográficas, sazonalidade e status de proteção durante dois anos. Portanto, este projeto irá fornecer informações cruciais e carentes sobre a biodiversidade marinha, que serão disseminadas tanto para cientistas quanto para gestores públicos, contribuindo para melhores ações de gestão de conservação do ambiente marinho. Ao final deste projeto, esperamos ter contribuído para um melhor conhecimento da biodiversidade marinha paulista, implantado uma nova linha de pesquisa no Instituto Oceanográfico da Universidade de São Paulo (USP) e formado pesquisadores e alunos em diferentes disciplinas como genômica, oceanografia, ecologia molecular marinha, evolução, bioinformática e análise estatística.
 
 
