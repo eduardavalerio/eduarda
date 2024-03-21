@@ -15,7 +15,7 @@ Este projeto de pesquisa é subsidiado pela Fundação de Amparo à Pesquisa do 
 ![](/assets/images/edna.jpg)
 
 O DNA Ambiental, ou simplesmente eDNA, é o material genético de organismos contido em amostras ambientais. No LAGEM, coletamos e analisamos o eDNA de amostras de águas do ambiente marinho para identificação taxonômica em diferentes níveis em larga escala através do método de Metabarcoding. 
-A técnica de eDNA surgiu com o desenvolvimento e inovação das técnicas de PCR e sequenciamento de nova geração.
-
+A técnica de eDNA surgiu com o desenvolvimento e inovação das técnicas de PCR e sequenciamento de nova geração. \
+A utilização dessa ferramenta para monitoramento de áreas oceânicas e protegidas está em crescimento e desenvolvimento, a fim de entender e acompanhar a dinâmica e organização ecossistêmica local e possíveis impactos antrópicos sobre o ambiente. 
 Para saber mais, [acesse](https://www.youtube.com/watch?v=HlLnSI6nZjw).
 
