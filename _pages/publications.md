@@ -96,5 +96,5 @@ header:
   **Rodrigo R Domingues**, Vito Antonio Mastrochirico-Filho, Natalia J Mendes, Diogo T Hashimoto, Rui Coelho, Agostinho Antunes, Fausto Foresti, Fernando F Mendonça
 
 - [DNA barcode reveals the bycatch of endangered batoids species in the Southwest Atlantic: implications for sustainable fisheries management and conservation efforts.](https://www.cabidigitallibrary.org/doi/full/10.5555/20203312342)
-  Bruno Lopes da Silva Ferrette,** Rodrigo Rodrigues Domingues**, Matheus Marcos Rotundo, Marina Provetti Miranda, Ingrid Vasconcellos Bunholi, Juliana Beltramin de Biasi, Claudio Oliveira, Fausto Foresti, Fernando Fernandes Mendonça
+  Bruno Lopes da Silva Ferrette,**Rodrigo Rodrigues Domingues**, Matheus Marcos Rotundo, Marina Provetti Miranda, Ingrid Vasconcellos Bunholi, Juliana Beltramin de Biasi, Claudio Oliveira, Fausto Foresti, Fernando Fernandes Mendonça
   
