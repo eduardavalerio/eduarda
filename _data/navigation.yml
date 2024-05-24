@@ -2,14 +2,14 @@
 main:
   - title: "Sobre"
     url: /
-  - title: "Contato"
-    url: /contato/
   - title: "Grupo"
     url: /grupo/
   - title: "Publicações"
     url: /publicacoes/
   - title: "Pesquisa"
     url: /pesquisa/
+  - title: "Contato"
+    url: /contato/
 
   
  
