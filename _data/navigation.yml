@@ -8,10 +8,10 @@ main:
     url: /publicacoes/
   - title: "Pesquisa"
     url: /pesquisa/
-  - title: "Contato"
-    url: /contato/
   - title: "Mídias"
     url: /midias/
+  - title: "Contato"
+    url: /contato/
 
   
  
