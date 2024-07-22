@@ -9,7 +9,7 @@ header:
 ### Eduarda Valério de Jesus 
 📧 `eduarda.jesus@usp.br`
 
-Undergraduate student at Oceanographic Institute of the University of São Paulo, interested in Biological and Physical Oceanography, working with molecular ecology and bioinformatics related to environmental DNA (eDNA) with funding from São Paulo Research Foundation (FAPESP).
+Undergraduate student at Oceanographic Institute of the University of São Paulo and PADI certified scuba diver. Interested in Biological and Physical Oceanography, working with molecular ecology and bioinformatics related to environmental DNA (eDNA) with funding from São Paulo Research Foundation (FAPESP).
 
 ## Education
 
