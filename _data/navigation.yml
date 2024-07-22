@@ -2,14 +2,10 @@
 main:
   - title: "Sobre"
     url: /
-  - title: "Grupo"
-    url: /grupo/
-  - title: "Publicações"
-    url: /publicacoes/
   - title: "Pesquisa"
     url: /pesquisa/
-  - title: "Mídias"
-    url: /midias/
+  - title: "Currículo"
+    url: /cv/
   - title: "Contato"
     url: /contato/
 
