@@ -4,7 +4,7 @@ Este repositório tem como objetivo ensinar a criar sua própria webpage a parti
 Utilizaremos o GitHub Pages para criação de webpages de maneira simplificada e gratuita, onde é possível transformar repositórios em sites estáticos hospedados diretamente pelo GitHub.  
 
 ### ❗ Créditos
-Esse repositório foi bifurcado do repositório original em [jananiravi](https://github.com/jananiravi/jananiravi.github.io) e hospedado em GitHub Pages.
+Esse repositório foi bifurcado do repositório original em [LAGEM IOUSP](https://github.com/Laboratorio-de-Genomica-Marinha) e hospedado em GitHub Pages.
 
 ## Passo 1: Como criar e hospedar em GitHub Pages
 
@@ -22,9 +22,6 @@ Selecione `Deploy from a branch`, em branch, `main` e `/(root)`. Clique em **SAL
 ### Pronto! O seu site já está no ar 🤓
 
 ## Passo 2: Modificar e estilizar seu site
-> Você não precisa saber programar para criar sua webpage, basta copiar alguém que já sabe!\
-Assim como eu fiz, copiei um template pronto [jananiravi](https://github.com/jananiravi/jananiravi.github.io) e modifiquei as informações que eu queria.
-
 > O GitHub é uma plataforma incrível open source, possibilitando que os usuários possam utilizar códigos uns dos outros.
 
 ## 📫 Contato
