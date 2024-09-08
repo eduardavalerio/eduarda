@@ -1,13 +1,15 @@
 # main links
 main:
-  - title: "Sobre"
+  - title: "About"
     url: /
-  - title: "Pesquisa"
+  - title: "Research"
     url: /pesquisa/
-  - title: "Currículo"
+  - title: "Curriculum"
     url: /cv/
-  - title: "Contato"
-    url: /contato/
+  - title: "Experiences"
+    url: /experiences/
+  - title: "Contact"
+    url: /contact/
 
   
  
