@@ -3,7 +3,7 @@ layout: single
 title: "Curriculum"
 permalink: /cv/
 header:
-  image: /assets/images/wallpaper.jpg
+  image: /assets/photos/wallpaper.jpg
 ---
 
 ### Eduarda Valério de Jesus 
