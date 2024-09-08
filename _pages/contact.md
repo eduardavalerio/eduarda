@@ -1,21 +1,19 @@
 ---
 layout: single
-title: "Contato"
-permalink: /contato/
+title: "Contact"
+permalink: /contact/
 header:
   image: /assets/images/wallpaper.jpg
 ---
 
 
-### Laboratório 
-O Laboratório de Genômica Marinha, na qual faço parte, está situado na sala 117-A do prédio principal do [Instituto Oceanográfico](https://www.io.usp.br), localizado no endereço, [Praça Oceanográfico, 191 - Vila Universitaria, São Paulo - SP, 05508-120](https://www.google.com/maps/dir//Instituto+Oceanogr%C3%A1fico+da+USP+-+Pra%C3%A7a+Oceanogr%C3%A1fico,+191+-+Vila+Universitaria,+S%C3%A3o+Paulo+-+SP,+05508-120,+Brasil/@-23.5609676,-46.8144153,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x94ce56148aa0ca3b:0xf3a4d0313b5e483c!2m2!1d-46.7320137!2d-23.5609893?entry=ttu).
-
-### Endereço de correio 
+### Address 
 Departamento de Oceanografia Biológica \\
 Instituto Oceanográfico, Universidade de São Paulo \\
 Praça do Oceanográfico 191, São Paulo, SP - BRASIL 05508-120
+[Instituto Oceanográfico](https://www.io.usp.br), localizado no endereço, [Praça Oceanográfico, 191 - Vila Universitaria, São Paulo - SP, 05508-120](https://www.google.com/maps/dir//Instituto+Oceanogr%C3%A1fico+da+USP+-+Pra%C3%A7a+Oceanogr%C3%A1fico,+191+-+Vila+Universitaria,+S%C3%A3o+Paulo+-+SP,+05508-120,+Brasil/@-23.5609676,-46.8144153,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x94ce56148aa0ca3b:0xf3a4d0313b5e483c!2m2!1d-46.7320137!2d-23.5609893?entry=ttu).
 
-### Telefone e email  
+### Phone e email  
 Land line: +55 11 3091-6546 \\
 E-mail: eduarda.jesus@usp.br 
 
