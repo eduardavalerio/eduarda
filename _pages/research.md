@@ -1,11 +1,15 @@
 ---
 layout: single
-title: "Linhas de pesquisa"
-permalink: /pesquisa/
+title: "Research"
+permalink: /research/
 header:
   image: /assets/images/wallpaper.jpg
 ---
 
-## Multilocus DNA barcode de espécies marinhas não representadas em banco de dados de sequências: subsídios para o DNA metabarcoding na costa de São Paulo. Projeto FAPESP 2022/14631-1
+## DNA barcoding and metabarcoding as tools to show the biodiversity of the groups porifera, cnidaria and fish from environmental DNA
+- Process no. FAPESP 2022/14631-1
+
+
+
 
 
