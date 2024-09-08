@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Currículo"
+title: "Curriculum"
 permalink: /cv/
 header:
   image: /assets/images/wallpaper.jpg
@@ -15,6 +15,10 @@ Undergraduate student at Oceanographic Institute of the University of São Paulo
 
 **Oceanography - BSc degree | 2022 - 2025 (intended) | University of São Paulo, Brazil**
   - Oceanographic Institute. University of São Paulo (USP), Brazil.
+
+## Experiences 
+**Visiting researcher at University of Salford | sep 2024 - dec 2024 | University of Salford, United Kingdom**
+  - Funding from São Paulo Research Foundation (FAPESP)
 
 
 ## Complementary education 
