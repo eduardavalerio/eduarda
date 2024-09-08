@@ -3,7 +3,7 @@ layout: single
 title: "Research"
 permalink: /research/
 header:
-  image: /assets/images/wallpaper.jpg
+  image: /assets/photos/wallpaper.jpg
 ---
 
 ### DNA barcoding and metabarcoding as tools to show the biodiversity of the groups porifera, cnidaria and fish from environmental DNA
