@@ -3,7 +3,7 @@ layout: single
 title: "Contact"
 permalink: /contact/
 header:
-  image: /assets/images/wallpaper.jpg
+  image: /assets/photos/wallpaper.jpg
 ---
 
 
