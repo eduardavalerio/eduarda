@@ -21,3 +21,12 @@ The sampling process occured in 2023/2024 in summer and winter in four coastal i
 ![](/assets/photos/sampling.jpg)
 
 ### Laboratory work 
+The previously collected samples went through the steps of DNA extraction, PCR, clean-up, library preparation and sequencing, these steps are being carried out at the School of Science, Engineering and Environment at the University of Salford with the samples collected in 2023. 
+
+![](/assets/photos/ednalab.jpg)
+
+### Bioinformatics and Data Analyses 
+The last step is transforming all the sequences we had into results, for this, we use pipelines for bioinformatics in R programming language. 
+
+![](/assets/photos/bioinfo.jpg)
+
