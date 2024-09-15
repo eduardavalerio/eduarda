@@ -23,7 +23,7 @@ The previously collected samples went through the steps of DNA extraction, PCR, 
 ![](/assets/photos/ednalab.jpg)
 
 ### Bioinformatics and Data Analyses 
-The last step is transforming all the sequences we had into results, for this, we use pipelines for bioinformatics in R programming language. 
+The last step is transforming all the sequences we had into results, for this, we use pipelines for bioinformatics in R programming language. You can see some scripts for data analyses of barcode of the phylum Porifera in my [GitHub Repository](https://github.com/eduardavalerio/Ecological-analyses-of-porifera-IC-FAPESP)
 
 ![](/assets/photos/bioinfo.jpg)
 
